@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogAPI</string>
+    <string name="fondoSearch">Ingrese raza de perro</string>
+</resources>
